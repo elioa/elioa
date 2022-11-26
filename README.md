@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @elioa
+- 👀 I’m a LaTeX programmer and I love LaTeX and typography.
+- 💞️ I’m looking to collaborate on any LaTeX project.
+- 📫 How to reach me elio.farina@gmail.com
